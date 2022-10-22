@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Remember Number</string>
+    <string name="title_activity_start_screen">StartScreen</string>
+    <string name="start_screen_description">Math Quiz</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+    <string name="end">End</string>
+    <string name="go">Go</string>
+    <string name="title_activity_progress_screen">ProgressScreen</string>
+    <string name="play_again">Play Again</string>
+    <string name="score">Score: %d</string>
+    <string name="time">Time: %d</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="title_activity_question_screen">QuestionScreen</string>
+    <string name="start_quiz">Start Quiz</string>
+</resources>
